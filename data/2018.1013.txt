@@ -1,0 +1,7 @@
+Learning to predict reciprocity and triadic closure in social networks
+Abstract:We study how links are formed in social networks. In particular, we focus on investigating how a reciprocal (two-way) link, the basic relationship in socia...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28bb11920b3d6dbc3d33f894cad11fb651%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2499908&ie=utf-8&sc_us=8220292009390967391
+zhihu
+2018-03-19

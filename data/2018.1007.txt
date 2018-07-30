@@ -1,0 +1,7 @@
+Twin Learning for Similarity and Clustering: A Unified Kernel Approach
+Abstract:Cheng, "Twin learning for similarity and clustering: A unified kernel approach," in Proc. AAAI, San Francisco, CA, USA, 2017, pp. 2080-2086....
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28f955aa1ff74dee9214fcdf2cc8f53496%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1705.00678&ie=utf-8&sc_us=13672111253985482840
+zhihu
+2018-05-04

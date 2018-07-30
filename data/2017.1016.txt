@@ -1,0 +1,7 @@
+Corpus expansion for statistical machine translation with semantic role label substitution rules
+Abstract:ABSTRACT  We present an approach of expanding parallel corpora for machine translation. By utilizing Semantic role labeling (SRL) on one side of the language pair, we extract SRL substitution rules from existing parallel corpus. The rule...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%283c6fa56c86730c7f46e6d64493492c62%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2002798&ie=utf-8&sc_us=4593608476758081739
+zhihu
+2017-12-08

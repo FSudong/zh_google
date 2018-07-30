@@ -1,0 +1,7 @@
+Inner Attention based Recurrent Neural Networks for Answer Selection
+Abstract:Inner attention based recurrent neural networks for answer selection. In Proceedings of the Conference on Association for Computational Linguistics, 2016.Bingning Wang, Kang Liu, and Jun Zhao. Inner attention based recurrent neural networks ...
+None
+2
+http://www.researchgate.net/publication/306093655_Inner_Attention_based_Recurrent_Neural_Networks_for_Answer_Selection
+zhihu
+2016-12-25

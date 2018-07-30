@@ -1,0 +1,7 @@
+Teaching-to-Learn and Learning-to-Teach for Multi-Label propagation
+Abstract:Multi-label propagation aims to transmit the multi-label information from labeled examples to unlabeled examples based on a weighted graph. Existing methods ignore the specific propagation difficulty of different unlabeled examples and c...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28a667c3900a8790fbde3f8008788c51c4%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3016124&ie=utf-8&sc_us=7825179565082256316
+zhihu
+2016-11-27

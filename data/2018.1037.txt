@@ -1,0 +1,7 @@
+TransNets: Learning to Transform for Recommendation
+Abstract:Abstract:  Recently, deep learning methods have been shown to improve the performance of recommender systems over traditional methods, especially when revi...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28deafc42931dff5a28db4acb0b88a6629%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3109878&ie=utf-8&sc_us=9849661499663037528
+zhihu
+2018-04-10

@@ -1,0 +1,7 @@
+Deep Residual Learning for Weakly-Supervised Relation Extraction
+Abstract:YiYao Huang and William Yang Wang. 2017. Deep Residual Learning for Weakly-Supervised Relation Extraction. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Pro- cessing. pages 1803-1807....
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28158616cdfe24c93e00cc897b826c1d2a%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1707.08866&ie=utf-8&sc_us=6447384884856762211
+zhihu
+2017-12-04

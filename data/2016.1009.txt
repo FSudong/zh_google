@@ -1,0 +1,7 @@
+Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec
+Abstract:Abstract:  Distributed dense word vectors have been shown to be effective at capturing token-level semantic and syntactic regularities in language, while t...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28c77cb4b563101eba2b6e26f9cbebd0bc%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1605.02019&ie=utf-8&sc_us=3715581964260806848
+zhihu
+2016-11-20

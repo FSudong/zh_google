@@ -1,0 +1,7 @@
+Joint Representation Learning of Text and Knowledge for Knowledge Graph Completion
+Abstract:Joint representation learning of text and knowledge within a unified semantic space enables us to perform knowledge graph completion more accurately. In th...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28d7527065e8056e07deb199d2d7b14b18%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1611.04125&ie=utf-8&sc_us=3552399414486456290
+zhihu
+2016-12-11

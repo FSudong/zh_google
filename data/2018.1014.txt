@@ -1,0 +1,7 @@
+Community Preserving Network Embedding
+Abstract:Network embedding, aiming to learn the low-dimensional representations of nodes in networks, is of paramount importance in many real applications. One basic requirement of network embedding is to preserve the structure and inherent prope...
+None
+2
+http://www.researchgate.net/publication/313628491_Community_Preserving_Network_Embedding
+zhihu
+2018-01-30

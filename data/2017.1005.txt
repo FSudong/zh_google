@@ -1,0 +1,7 @@
+A Local Algorithm for Structure-Preserving Graph Cut
+Abstract:Abstract Nowadays, large-scale graph data is being generated in a variety of real-world applications, from social networks to co-authorship networks, from protein-protein interaction networks to road traffic networks. Many existing works...
+None
+2
+http://doi.acm.org/10.1145/3097983.3098015
+zhihu
+2017-11-26

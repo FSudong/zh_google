@@ -1,0 +1,7 @@
+InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+Abstract:Abstract:  This paper describes InfoGAN, an information-theoretic extension to the Generative Adversarial Network that is able to learn disentangled repres...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%283b2200ebb71f04053f86a9fa413d6dd1%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1606.03657&ie=utf-8&sc_us=6358061992776443665
+zhihu
+2017-05-16

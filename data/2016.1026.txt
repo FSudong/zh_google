@@ -1,0 +1,7 @@
+Max-margin deepwalk: discriminative learning of network representation
+Abstract:DeepWalk is a typical representation learning method that learns low-dimensional representation- s for vertices in social networks. Similar to other network representation learning (NRL) models, it encodes the network structure into vert...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%2858994440e6e8fc194afc918e3fa5d726%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3061163&ie=utf-8&sc_us=8788483732508780172
+zhihu
+2016-12-14

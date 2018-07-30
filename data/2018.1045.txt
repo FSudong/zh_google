@@ -1,0 +1,7 @@
+Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning
+Abstract:Abstract:  Attention-based neural encoder-decoder frameworks have been widely adopted for image captioning. Most methods force visual attention to be activ...
+None
+2
+http://doi.ieeecomputersociety.org/10.1109/CVPR.2017.345
+zhihu
+2018-01-10

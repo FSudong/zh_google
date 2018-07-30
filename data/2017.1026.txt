@@ -1,0 +1,7 @@
+Ngram2vec: Learning Improved Word Representations from Ngram Co-occurrence Statistics
+Abstract:Ngram2vec: Learning Improved Word Representations from Ngram Co-occurrence StatisticsBag-of-ngram based methods still achieve state-of-the-art results for tasks such as sentiment classification of long movie reviews, despite semantic ...
+None
+2
+http://www.researchgate.net/publication/322585290_Ngram2vec_Learning_Improved_Word_Representations_from_Ngram_Co-occurrence_Statistics
+zhihu
+2017-09-27

@@ -1,0 +1,7 @@
+Cross Domain Regularization for Neural Ranking Models Using Adversarial Learning
+Abstract:Cross Domain Regularization for Neural Ranking Models Using Adversarial LearningUnlike traditional learning to rank models that depend on hand-crafted features, neural representation learning models learn higher level features for the ranking task...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28eb70b2e3a0b5afa5a5505ab1dc81a2c2%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1805.03403&ie=utf-8&sc_us=9331080359596407645
+zhihu
+2018-05-17

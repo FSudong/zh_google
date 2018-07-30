@@ -1,0 +1,7 @@
+ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs
+Abstract:Zhou, "ABCNN: attention-based convolutional neural network for modeling sentence pairs," Transactions of the Association for Compu- tational Linguistics, vol. 4, pp. 259-272, 2016.W. Yin, H. Schu¨tze, B. Xiang, and B. Zhou....
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28945819406ddd81f574b2ff7023761d0d%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1512.05193&ie=utf-8&sc_us=3147784169430676648
+zhihu
+2017-04-07

@@ -1,0 +1,7 @@
+Large-Step Markov Chains for the Traveling Salesman Problem
+Abstract:Summary: We introduce a new class of Markov chain Monte Carlo search procedures that lead to more powerful optimization methods than simulated annealing. The main idea is to embed deterministic local search techniques into stochastic alg...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%281610f89371aa290538ba16820343d00e%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1125870&ie=utf-8&sc_us=13841912628547210443
+zhihu
+2018-07-10

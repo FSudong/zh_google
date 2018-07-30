@@ -1,0 +1,7 @@
+Semi-supervised distance metric learning for collaborative image retrieval and clustering
+Abstract:Learning a good distance metric plays a vital role in many multimedia retrieval and data mining tasks. For example, a typical content-based image retrieval...
+None
+2
+http://doi.acm.org/10.1145/1823746.1823752
+zhihu
+2017-06-06

@@ -1,0 +1,7 @@
+Deep Semantic Role Labeling with Self-Attention
+Abstract:Abstract:  Semantic Role Labeling (SRL) is believed to be a crucial step towards natural language understanding and has been widely studied. Recent years, end-to-end SRL with recurrent neural networks (RNN) has gained increasing attentio...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28d52a79891eb269cde85314f72553de99%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1712.01586&ie=utf-8&sc_us=12358023537586802867
+zhihu
+2018-03-26

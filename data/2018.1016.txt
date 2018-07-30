@@ -1,0 +1,7 @@
+Weighted Multi-view Clustering with Feature Selection
+Abstract:Lai. Weighted multi-view clustering with feature selection. Pattern Recognition, 53:25-35, 2016.Xu Yumeng, Wang Changdong, Lai Jianhuang. Weighted multi-...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%288d6ba35c400830a040c7b13f3b446e60%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0031320315004665&ie=utf-8&sc_us=15782382299591778681
+zhihu
+2018-01-19

@@ -1,0 +1,7 @@
+Architecture of power supply system for LCD apparatus
+Abstract:The proposed architecture includes a Dual Boost PFC circuit for receiving the AC input voltage and generating the DC bus voltage, at least one inverter coupled to the Dual Boost PFC circuit for driving at least one CCFL to offer a backli...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%285bd73f6ce5ad3dab7ac3e18b9b762d7c%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2Fy2005%2F0237010.html&ie=utf-8&sc_us=2603548707744396536
+zhihu
+2018-01-11

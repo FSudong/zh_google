@@ -1,0 +1,7 @@
+Architecture for dynamic permissions in java
+Abstract:An architecture for extending the Java security model to allow a user or administrator to grant permissions dynamically. By itself, the Java 2 security model does not allow additions to the collections of policy permissions after they ha...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%289e1fffe7ff4981c64df72e6fe7296888%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2F6526513.html&ie=utf-8&sc_us=11140407153588265250
+zhihu
+2017-03-28

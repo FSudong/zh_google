@@ -1,0 +1,7 @@
+Learning to Skim Text
+Abstract:Abstract:  Recurrent Neural Networks are showing much promise in many sub-areas of natural language processing, ranging from document classification to machine translation to automatic question answering. Despite their promise, many recu...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28ac9b444548a363c01c53e59536a513b8%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1704.06877&ie=utf-8&sc_us=5896410633676422984
+zhihu
+2017-11-01

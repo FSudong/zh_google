@@ -1,0 +1,7 @@
+Adaptive Feature Selection Based on the Most Informative Graph-Based Features
+Abstract:In this paper, we propose a novel method to adaptively select the most informative and least redundant feature subset, which has strong discriminating power with respect to the target label. Unlike most traditional methods using vectoria...
+None
+2
+http://link.springer.com/10.1007/978-3-319-58961-9_25
+zhihu
+2017-12-05

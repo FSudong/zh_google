@@ -1,0 +1,7 @@
+A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification
+Abstract:Text summarization and sentiment classification both aim to capture the main ideas of the text but at different levels. Text summarization is to describe the text within a few sentences, while sentiment classification can be regarded as ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28fd7abb664a431af38122cb55f5733a8c%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1805.01089&ie=utf-8&sc_us=16436709193676129232
+zhihu
+2018-05-15

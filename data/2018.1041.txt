@@ -1,0 +1,7 @@
+Relation Extraction with Deep Reinforcement Learning
+Abstract:react-text: 310 Deep learning model has witnessed its obvious advantage in feature representation and document retrival. However, the model only considered most frequent words as the input to learn latent features, which inevitably ignor...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%288b886ccd23c89a425c006fe14745f8a7%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fci.nii.ac.jp%2Fnaid%2F130005875970&ie=utf-8&sc_us=6382755229557994438
+zhihu
+2018-03-28

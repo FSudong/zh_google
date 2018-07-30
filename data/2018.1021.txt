@@ -1,0 +1,7 @@
+Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach
+Abstract:Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning ApproachWe compare a computer generated style transfer to a physically painted style transfer. We contrast the computer algorithm with the self-recorded thought process...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28b877fe218e76f844f3d756448b82c9ad%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1805.05181&ie=utf-8&sc_us=14083551393950912463
+zhihu
+2018-06-26

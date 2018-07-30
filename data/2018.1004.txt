@@ -1,0 +1,7 @@
+Learning from Labeled and Unlabeled Vertices in Networks
+Abstract:Abstract Networks such as social networks, citation networks, protein-protein interaction networks, etc., are prevalent in real world. However, only very few vertices have labels compared to large amounts of unlabeled vertices. For examp...
+None
+2
+http://doi.acm.org/10.1145/3097983.3098142
+zhihu
+2018-05-28

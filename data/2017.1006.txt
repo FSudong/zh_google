@@ -1,0 +1,7 @@
+Unsupervised feature selection on networks: a generative view
+Abstract:In the past decade, social and information networks have become prevalent, and research on the network data has attracted much attention. Besides the link structure, network data are often equipped with the content information (i.e, node...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28cc7ed7e584a87cf0fd761235d2889d97%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3016208&ie=utf-8&sc_us=2978698170406213289
+zhihu
+2017-11-09

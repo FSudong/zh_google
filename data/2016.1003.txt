@@ -1,0 +1,7 @@
+Learning Sentiment-Specific Word Embedding
+Abstract:D. Tang, F. Wei, N. Yang, M. Zhou, T. Liu, and B. Qin, "Learning sentiment-specific word embedding for twitter sentiment classification," in Proc. 52nd Annu. Meeting of the Associa- tion for Computational Linguistics, ...
+None
+2
+http://www.mendeley.com/catalog/learning-sentimentspecific-word-embedding/
+zhihu
+2016-12-18

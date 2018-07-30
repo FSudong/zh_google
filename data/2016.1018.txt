@@ -1,0 +1,7 @@
+Accelerating the mining of influential nodes in complex networks through community detection
+Abstract:Computing the set of influential nodes of a given size, which when activated will ensure maximal spread of influence on a complex network, is a challenging...
+None
+2
+http://doi.acm.org/10.1145/2903150.2903181
+zhihu
+2016-12-14

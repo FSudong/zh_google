@@ -1,0 +1,7 @@
+Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning
+Abstract:Named entity recognition, and other information extraction tasks, frequently use linguistic features such as part of speech tags or chunkings. For language...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%281824d9b293ec4f16915e41739fd6b52a%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1603.00786&ie=utf-8&sc_us=18045377585651390093
+zhihu
+2016-12-11

@@ -1,0 +1,7 @@
+Synonym extension of search queries with validation
+Abstract:A computer search involves expanding a user query with two synonym dictionaries—actions and object—and then validating the expanded queries by comparison with entries in a Subject-Action-Object Knowledge Database (SAO KB) in a discipli...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28f7990cfaaf2d2d311726f29514876eb9%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2F7120574.html&ie=utf-8&sc_us=17347263641483850232
+zhihu
+2016-10-31

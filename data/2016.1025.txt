@@ -1,0 +1,7 @@
+Neural Relation Extraction with Selective Attention over Instances
+Abstract:2016. Neural relation extraction with selective attention over instances. In Proceedings of the 54nd Annual Meeting on Association for Computational Linguistics (ACL'16). 2124-2133.Yankai Lin, Shiqi Shen, Zhiyuan Liu, Luan Huanbo, and ...
+None
+2
+http://www.researchgate.net/publication/306093646_Neural_Relation_Extraction_with_Selective_Attention_over_Instances
+zhihu
+2016-09-28

@@ -1,0 +1,7 @@
+Cross-Sentence N-ary Relation Extraction with Graph LSTMs
+Abstract:Abstract:  Past work in relation extraction has focused on binary relations in single sentences. Recent NLP inroads in high-value domains have sparked interest in the more general setting of extracting n-ary relations that span multiple ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%282bacb56569ff42f06c7ea83f69e07dc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1708.03743&ie=utf-8&sc_us=9139576836237676790
+zhihu
+2018-01-02

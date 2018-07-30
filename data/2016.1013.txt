@@ -1,0 +1,7 @@
+Easy Questions First? A Case Study on Curriculum Learning for Question Answering
+Abstract:Cognitive science researchers have em- phasized the importance of ordering a complex task into a sequence of easy to hard problems. Such an ordering provides an easier path to learning and increases the speed of acquisition of the task c...
+None
+2
+http://www.researchgate.net/publication/306093466_Easy_Questions_First_A_Case_Study_on_Curriculum_Learning_for_Question_Answering
+zhihu
+2016-11-07

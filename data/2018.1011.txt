@@ -1,0 +1,7 @@
+Deep neural networks for learning graph representations
+Abstract:In this paper, we propose a novel model for learning graph representations, which generates a low-dimensional vector representation for each vertex by capturing the graph structural information. Different from other previous research eff...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%288b225924d0aaca170b7ec53548a715be%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3015982&ie=utf-8&sc_us=9413538457349633299
+zhihu
+2018-03-29

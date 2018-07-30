@@ -1,0 +1,7 @@
+node2vec: Scalable Feature Learning for Networks
+Abstract:Prediction tasks over nodes and edges in networks require careful effort in engineering features used by learning algorithms. Recent research in the broade...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%2866a8c2230f73114b62f37846e287022b%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2939754&ie=utf-8&sc_us=12579920782058950985
+zhihu
+2017-10-31

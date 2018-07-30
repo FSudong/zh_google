@@ -1,0 +1,7 @@
+Aggregating Deep Convolutional Features for Image Retrieval
+Abstract:This paper presents a new state-of-the-art for document image classification and retrieval, using features learned by deep convolutional neural networks (C...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28ecad60a53a67a946b69f9aa1172077a5%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.oalib.com%2Fpaper%2F4053400&ie=utf-8&sc_us=181949229138208385
+zhihu
+2017-01-26

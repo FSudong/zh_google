@@ -1,0 +1,7 @@
+Community Detection in Complex Networks Using Extremal Optimization
+Abstract:Abstract:  We propose a novel method to find the community structure in complex networks based on an extremal optimization of the value of modularity. The ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28a594e2a8e2d3f0001d044e14e38bfabb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fscitation.aip.org%2Fgetabs%2Fservlet%2FGetabsServlet%3Fprog%3Dnormal%26amp%3Bid%3DVIRT02000010000005000078000001%26amp%3Bidtype%3Dcvips%26amp%3Bgifs%3DYes&ie=utf-8&sc_us=12646938238588930468
+zhihu
+2018-05-08

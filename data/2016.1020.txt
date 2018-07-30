@@ -1,0 +1,7 @@
+Relation Classification via Multi-Level Attention CNNs
+Abstract:Relation classification is a crucial ingredi- ent in numerous information extraction sys- tems seeking to mine structured facts from text. We propose a novel convolutional neural network architecture for this task, relying on two levels ...
+None
+2
+http://www.researchgate.net/publication/306093620_Relation_Classification_via_Multi-Level_Attention_CNNs
+zhihu
+2016-10-11

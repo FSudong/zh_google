@@ -1,0 +1,7 @@
+Prior Knowledge Integration for Neural Machine Translation using Posterior Regularization
+Abstract:Prior Knowledge Integration for Neural Machine Translation using Posterior RegularizationAlthough neural machine translation ...2017. Prior knowledge inte- gration for neural machine translation using poste- rior regularization. In Proceedings of...
+None
+2
+http://www.researchgate.net/publication/318739820_Prior_Knowledge_Integration_for_Neural_Machine_Translation_using_Posterior_Regularization
+zhihu
+2017-12-05

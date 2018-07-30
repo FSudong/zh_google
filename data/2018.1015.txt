@@ -1,0 +1,7 @@
+Robust Unsupervised Feature Selection on Networked Data
+Abstract:AbstractFeature selection has shown its effectiveness to prepare high-dimensional data for many data mining and machine learning tasks. Traditional feature selection algorithms are mainly based on the assumption that data instances are i...
+None
+2
+http://www.researchgate.net/publication/306061975_Robust_Unsupervised_Feature_Selection_on_Networked_Data
+zhihu
+2018-01-23

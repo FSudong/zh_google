@@ -1,0 +1,7 @@
+Compressed K-Means for Large-Scale Clustering
+Abstract:Large-scale clustering has been widely used in many applications, and has received much attention. Most existing clustering methods suffer from both expensive computation and memory costs when applied to large-scale datasets. In this pap...
+None
+2
+http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14565
+zhihu
+2018-07-15

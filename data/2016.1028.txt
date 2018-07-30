@@ -1,0 +1,7 @@
+Sequence Level Training with Recurrent Neural Networks
+Abstract:Abstract:  Many natural language processing applications use language models to generate text. These models are typically trained to predict the next word in a sequence, given the previous words and some context such as an image. However...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28f65a931b4b230f816915921b5a543cd3%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1511.06732&ie=utf-8&sc_us=6284000610518240735
+zhihu
+2016-10-11

@@ -1,0 +1,7 @@
+Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks
+Abstract:Question Answering on Knowledge Bases and Text using Universal Schema and Memory NetworksExisting question answering methods infer answers either from a knowledge base or from raw text. While knowledge base (KB) methods are good at ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28be74a82df0f5b6c6d7ea8e4c22532584%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1704.08384&ie=utf-8&sc_us=8504965169558000765
+zhihu
+2017-05-09

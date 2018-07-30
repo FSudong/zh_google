@@ -1,0 +1,7 @@
+Automatic Coupling of Answer Extraction and Information Retrieval
+Abstract:Xuchen Yao, Benjamin Van Durme, and Peter Clark. 2013b. Automatic coupling of answer extraction and information retrieval. In Proceedings of ACL, pages ...
+None
+2
+http://www.researchgate.net/publication/270877996_Automatic_Coupling_of_Answer_Extraction_and_Information_Retrieval
+zhihu
+2017-07-03

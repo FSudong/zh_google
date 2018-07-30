@@ -1,0 +1,7 @@
+Ask the Right Questions: Active Question Reformulation with Reinforcement Learning
+Abstract:We frame Question Answering (QA) as a Reinforcement Learning task, an approach that we call Active Question Answering. We propose an agent that sits betwee...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%286ac8e92062bab6be1c0612071529ff2d%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1705.07830&ie=utf-8&sc_us=705938878136307721
+zhihu
+2018-05-24

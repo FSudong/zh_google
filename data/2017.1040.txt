@@ -1,0 +1,7 @@
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks
+Abstract:Abstract:  Because of their superior ability to preserve sequence information over time, Long Short-Term Memory (LSTM) networks, a type of recurrent neural...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%281357cdccd1377d3fdda5b74283d85302%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1503.00075&ie=utf-8&sc_us=4775153105911655865
+zhihu
+2017-04-18

@@ -1,0 +1,7 @@
+Learning Community Embedding with Community Detection and Node Embedding on Graphs
+Abstract:Learning Community Embedding with Community Detection and Node Embedding on Graphscommunity embeddinggraph embeddingWe study an important yet largely under-...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%2830fda6549fb20931a3398f150d880d55%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3132925&ie=utf-8&sc_us=13948013673755513830
+zhihu
+2018-06-23

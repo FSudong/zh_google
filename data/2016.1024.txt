@@ -1,0 +1,7 @@
+Bidirectional Recurrent Convolutional Neural Network for Relation Classification
+Abstract:(2016). Bidirectional recurrent convolutional neural network for relation clas- sification. In ACL (1).Cai, R.; Zhang, X.; and Wang, H. 2016. Bidirectional recurrent convolutional neural network for relation classifi- cation. In ...
+None
+2
+http://www.researchgate.net/publication/306093683_Bidirectional_Recurrent_Convolutional_Neural_Network_for_Relation_Classification
+zhihu
+2016-09-29

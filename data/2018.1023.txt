@@ -1,0 +1,7 @@
+Parsing models for identifying multiword expressions
+Abstract:ABSTRACT  Multiword expressions lie at the syntax/semantics interface and have motivated alternative theories of syntax like Construction Grammar. Until no...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28f72e618dd8176f75a08018232469bcfc%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2464109&ie=utf-8&sc_us=14811317117889205321
+zhihu
+2018-06-14

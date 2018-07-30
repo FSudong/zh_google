@@ -1,0 +1,7 @@
+Reconstructing Volume Tracking
+Abstract:A new algorithm for the volume tracking of interfaces in two dimensions is presented. The algorithm is based upon a well-defined, second-order geometric so...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%2832af6a6026d196f8e81d6ecfb7b37269%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS002199919895906X&ie=utf-8&sc_us=14961175354901748926
+zhihu
+2017-07-13

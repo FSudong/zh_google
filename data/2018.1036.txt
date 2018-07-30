@@ -1,0 +1,7 @@
+ETH-DS3Lab at SemEval-2018 Task 7: Effectively Combining Recurrent and Convolutional Neural Networks for Relation Classification and Extraction
+Abstract:Reliably detecting relevant relations between entities in unstructured text is a valuable resource for knowledge extraction, which is why it has awaken significant interest in the field of Natural Language Processing. In this paper, we p...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%2898f9eabd76f0feb7becd82f93d6bf12b%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1804.02042&ie=utf-8&sc_us=321266676664369815
+zhihu
+2018-04-18

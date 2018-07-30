@@ -1,0 +1,7 @@
+DEVICE AND METHOD FOR NATURAL LANGUAGE PROCESSING
+Abstract:A device for relation extraction in a natural language sentence having n words is suggested, the device comprising: a recurrent neural network for joint entity and relation extractions of entities and relations between the entities in th...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%282efa181075fcc3348cb1e9c7f43b3993%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2Fy2018%2F0157643.html&ie=utf-8&sc_us=9616975475428582802
+zhihu
+2017-11-13

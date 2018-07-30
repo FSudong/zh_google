@@ -1,0 +1,7 @@
+Unified Spectral Clustering with Optimal Graph
+Abstract:Abstract:  Spectral clustering has found extensive use in many areas. Most traditional spectral clustering algorithms work in three separate steps: similarity graph construction; continuous labels learning; discretizing the learned label...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%286cd57fcc2dc9eed27eb20934a8872403%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1711.04258&ie=utf-8&sc_us=17026648547379241568
+zhihu
+2018-03-24

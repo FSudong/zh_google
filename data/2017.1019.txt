@@ -1,0 +1,7 @@
+Bilateral Multi-Perspective Matching for Natural Language Sentences
+Abstract:Abstract:  Natural language sentence matching is a fundamental technology for a variety of tasks. Previous approaches either match sentences from a single ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%285ac051b348c46ee3b2d5182b4a52ca38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1702.03814&ie=utf-8&sc_us=8483278874723311298
+zhihu
+2017-11-29

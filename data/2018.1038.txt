@@ -1,0 +1,7 @@
+Attending to Characters in Neural Sequence Labeling Models
+Abstract:Abstract:  Sequence labeling architectures use word embeddings for capturing similarity, but suffer when handling previously unseen or rare words. We investigate character-level extensions to such models and propose a novel architecture ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%2887961ad7e208e39a6244df95202954ee%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1611.04361&ie=utf-8&sc_us=1898781088630164183
+zhihu
+2018-04-07

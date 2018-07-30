@@ -1,0 +1,7 @@
+Online-updating regularized kernel matrix factorization models for large-scale recommender systems
+Abstract:Regularized matrix factorization models are known to generate high quality rating predictions for recommender systems. One of the major drawbacks of matrix...
+None
+2
+http://portal.acm.org/ft_gateway.cfm?id=1454047&type=pdf&CFID=29576336&CFTOKEN=51534192
+zhihu
+2017-12-18

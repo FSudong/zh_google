@@ -1,0 +1,7 @@
+Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions
+Abstract:Distant supervision for relation extraction is an efficient method to scale relation extraction to very large corpora which contains thousands of relations. However, the existing approaches have flaws on selecting valid instances and lac...
+None
+2
+http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14491
+zhihu
+2018-03-28

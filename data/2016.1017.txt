@@ -1,0 +1,7 @@
+SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
+Abstract:Abstract:  As a new way of training generative models, Generative Adversarial Nets (GAN) that uses a discriminative model to guide the training of the gene...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28c34475cbf329ec0356620ab1450f7c3e%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&ie=utf-8&sc_us=17301521581256341514
+zhihu
+2016-10-31

@@ -1,0 +1,7 @@
+Get To The Point: Summarization with Pointer-Generator Networks
+Abstract:Abstract:  Neural sequence-to-sequence models have provided a viable new approach for abstractive text summarization (meaning they are not restricted to simply selecting and rearranging passages from the original text). However, these mo...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28220b9444d95fa6f0e332f043ea6cbacd%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1704.04368&ie=utf-8&sc_us=10076556448937302037
+zhihu
+2018-04-25

@@ -1,0 +1,7 @@
+Text Understanding with the Attention Sum Reader Network
+Abstract:Abstract:  Several large cloze-style context-question-answer datasets have been introduced recently: the CNN and Daily Mail news data and the Children's Book Test. Thanks to the size of these datasets, the associated text comprehension t...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28c8ab0d5c59b9d84c008f8427aeec0990%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1603.01547&ie=utf-8&sc_us=6190810818038813705
+zhihu
+2016-11-06

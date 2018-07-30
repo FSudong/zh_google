@@ -1,0 +1,7 @@
+Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews
+Abstract:Coevolutionary Recommendation Model: Mutual Learning between Ratings and ReviewsIn this paper we build on recent work on case-based product recommendation focused on generating rich product descriptions for use in a recommendation context by ...
+None
+2
+http://doi.acm.org/10.1145/3178876.3186158
+zhihu
+2018-06-21

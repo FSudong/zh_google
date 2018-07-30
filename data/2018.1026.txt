@@ -1,0 +1,7 @@
+Convolutional Sequence Modeling Revisited
+Abstract:Shaojie Bai, J Zico Kolter, and Vladlen Koltun. Convolutional sequence modeling revisited. 2018.V. Koltun. S. Bai, Z. Kolter, "Convolutional Sequence Modeling Revisited," in Proc. ICLR, 2018....
+None
+2
+http://openreview.net/forum?id=rk8wKk-R-
+zhihu
+2018-05-30

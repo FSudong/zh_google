@@ -1,0 +1,7 @@
+Long Short-Term Memory-Networks for Machine Reading
+Abstract:Abstract:  In this paper we address the question of how to render sequence-level networks better at handling structured input. We propose a machine reading...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%286e2eb9db9f320454b501a40e0861567c%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1601.06733&ie=utf-8&sc_us=6914387772460642899
+zhihu
+2017-04-11

@@ -1,0 +1,7 @@
+A belief tracking challenge task for spoken dialog systems
+Abstract:Belief tracking is a promising technique for adding robustness to spoken dialog systems, but current research is fractured across different teams, techniques, and domains. This paper amplifies past informal discussions (Raux, 2011) to ca...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28e2580bf2d278e9601eaa1d74b41f5a8c%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2390461&ie=utf-8&sc_us=9431247823926005930
+zhihu
+2017-09-25

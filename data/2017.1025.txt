@@ -1,0 +1,7 @@
+A generic semantic-based framework for cross-domain recommendation
+Abstract:In this paper, we present an ongoing research work on the design and development of a generic knowledge-based description framework built upon semantic net...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28081ce6caba46dbcd6e9fc25063249d5e%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2039324&ie=utf-8&sc_us=10542366888023733991
+zhihu
+2017-11-01

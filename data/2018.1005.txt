@@ -1,0 +1,7 @@
+Unsupervised Feature Selection with Controlled Redundancy (UFeSCoR)
+Abstract:Features selected by a supervised/ unsupervised technique often include redundant or correlated features. While use of correlated features may result in an...
+None
+2
+http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2455509
+zhihu
+2018-05-24

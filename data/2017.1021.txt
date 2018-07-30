@@ -1,0 +1,7 @@
+Multi-Source Neural Translation
+Abstract:Abstract:  We build a multi-source machine translation model and train it to maximize the probability of a target English string given French and German sources. Using the neural encoder-decoder framework, we explore several combination ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%289113188ebddacbfd25ec4b743464010f%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1601.00710&ie=utf-8&sc_us=665687435625890373
+zhihu
+2017-11-22

@@ -1,0 +1,7 @@
+Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+Abstract:Modeling textual or visual information with vector representations trained from large language or visual datasets has been successfully explored in recent ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%282e3a95cccabd4b4ccf61e3396b286868%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1606.01847&ie=utf-8&sc_us=8252930849986149129
+zhihu
+2016-10-10

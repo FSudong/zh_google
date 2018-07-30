@@ -1,0 +1,7 @@
+Multimodal Face Biometr ics by Using Convolutional Neur al Networks
+Abstract:Biometric recognition is one of the major challenging topics which needs high performance of recognition accuracy. Most of existing methods rely on a single source of biometric to achieve recognition. The recognition accuracy in biometri...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%28040cde1f73dd9135a7c027aedcbe8eb6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.dbpia.co.kr%2FArticle%2FNODE07118965&ie=utf-8&sc_us=17907860949812506974
+zhihu
+2016-12-04

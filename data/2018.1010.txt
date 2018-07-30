@@ -1,0 +1,7 @@
+Understanding and Predicting Delay in Reciprocal Relations
+Abstract:Reciprocity in directed networks points to user's willingness to return favors in building mutual interactions. High reciprocity has been widely observed i...
+None
+2
+http://doi.acm.org/10.1145/3178876.3186076
+zhihu
+2018-04-10

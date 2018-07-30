@@ -1,0 +1,7 @@
+Generating Long and Diverse Responses with Neural Conversation Models
+Abstract:Louis Shao, Stephan Gouws, Denny Britz, Anna Goldie, Brian Strope, and Ray Kurzweil. Generating long and diverse responses with neural conversation models. CoRR, abs/1701.03185, 2017.Louis Shao, Stephan Gouws, Denny Britz, Anna ...
+None
+2
+http://xueshu.baidu.com/s?wd=paperuri%3A%288cffaab911f964e37db62b912c286395%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1701.03185v1&ie=utf-8&sc_us=13394806721140800449
+zhihu
+2017-06-20
